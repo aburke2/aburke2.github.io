@@ -1,5 +1,4 @@
-    
-    .container{
+.container{
         width: 50%;
             margin:0 auto;
     }
@@ -23,6 +22,10 @@
          
          body {
              background-color: #6495ed;
+             font-family: monospace;
+             font-color: black;
          }
+         
+         tr:nth-child(even) {background: #CCC}
          
          
