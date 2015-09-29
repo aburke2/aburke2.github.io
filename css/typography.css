@@ -1,0 +1,43 @@
+body {
+ font-size: 18px;
+ line-height: 1.45;
+ font-family: "Verdana", sans-serif;
+ color:#4b647c;
+    background-color: #c4dbf3;
+    width: 500px;
+    margin: 0 auto;
+    
+ } 
+
+
+p {
+    margin-bottom: 2em;
+max-width: 400px;
+    min-width: 100px;
+
+
+
+
+}
+
+h1
+
+{
+ color: #170b35;
+    
+    
+}
+
+h2
+{
+color: #170b35;
+font-style: italic;
+    
+}
+
+h3
+{
+    
+    color: #170b35;
+    font-style: italic;
+}
