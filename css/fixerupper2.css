@@ -41,3 +41,10 @@ div
     padding: 15px 20px;
     margin-bottom: 15px;
 }
+
+
+table, tr, th, td {
+    border: 1px solid white;
+    padding: 10px;
+    border-collapse: collapse;
+}
