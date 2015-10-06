@@ -30,4 +30,11 @@ h2
 text-align: center;
 }
 
+.columns
+{
+    column-count: 2;
+    
+    
+}
+
 
