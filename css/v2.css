@@ -28,7 +28,13 @@ table, tr, td, th {
 h2
 {
 text-align: center;
-text-decoration: underline;
+}
+
+.columns
+{
+    column-count: 2;
+    column-gap: 40px;
+    
 }
 
 
