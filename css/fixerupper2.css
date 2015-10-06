@@ -35,3 +35,9 @@ body {
 .table-container {
     background: black;
 }
+
+div
+{
+    padding: 15px 20px;
+    margin-bottom: 15px;
+}
