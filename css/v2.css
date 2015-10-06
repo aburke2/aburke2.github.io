@@ -20,6 +20,11 @@ table, tr, td, th {
     font-family: "Verdana";
 }
 
+.assignment
+{
+    font-size: 14px;
+}
+
 h2
 {
 text-align: center;
