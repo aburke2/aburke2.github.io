@@ -30,9 +30,9 @@ h2
 text-align: center;
 }
 
-.columns
+ul, li
 {
-    column-count: 2;
+    text-align: center;
 }
 
 
