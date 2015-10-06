@@ -1,7 +1,7 @@
 body {
     font-size: 18px;
- line-height: 1.45;
- font-family: "Verdana", sans-serif;
+    line-height: 1.45;
+    font-family: "Verdana", sans-serif;
     background-color: #ffc0cb;
     width: 900px;
     margin: 0 auto;
@@ -28,6 +28,7 @@ table, tr, td, th {
 img
 {
     text-align: center;
+    margin: 30px;
 }
 
 h2
