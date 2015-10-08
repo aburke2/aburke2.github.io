@@ -1,0 +1,46 @@
+body
+{
+  background-color: salmon;
+  width: 100%;
+  font-family: Arial;
+}
+
+img {
+  margin: 75px;
+  display:none;
+}
+
+div {
+  width:500px;
+  height:300px;
+  background:orange;
+  margin:0 auto;
+}
+
+p {
+  font-size:1.5em;
+  width:500px;
+  margin:30px auto;
+}
+@media (min-width:500px) and (max-width:600px) {
+  img {
+    display: inline;
+  }
+  div {
+    background: pink;
+  }
+}
+
+@media (min-width:900px) and (max-width:1000px) {
+  h1 {
+    display: inline;
+    color: white;
+  }
+}
+
+@media (min-width:700px) and (max-width:800px) {
+  p {
+    display: inline;
+    color: purple;
+  }
+}
