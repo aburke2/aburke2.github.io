@@ -28,10 +28,12 @@ body {
 
 .pittsburgh {
     background: yellow;
+    color: #551963;
 }
 
 .cardinals {
     background: red;
+    color: #000000;
 }
 
 .table-container {
