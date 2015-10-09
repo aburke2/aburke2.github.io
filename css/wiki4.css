@@ -6,7 +6,25 @@ h1
 body
 {
         
-background: green;        
+background: #507550;
+
 
 }
+
+.header
+{
+background: #CCDDA9;
+ clear: both;
+ padding-bottom: 20px;
+  width: 75%;
+}
+
+.nav
+{
+background: #3A9A3A;
+ clear: both;
+ padding-bottom: 20px;
+  width: 75%;
+}
+
 
