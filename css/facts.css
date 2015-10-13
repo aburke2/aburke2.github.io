@@ -1,0 +1,41 @@
+@media (min-width:320px) and (max-width:1050px) {
+  .fact1 {
+    display: inline;
+    background: pink;
+  }
+}
+
+@media (min-width:320px) and (max-width:900px) {
+  .fact2 {
+    display: inline;
+    background: orange;
+  }
+}
+
+@media (min-width:320px) and (max-width:800px) {
+  .fact3 {
+    display: inline;
+    background: purple;
+  }
+}
+
+@media (min-width:320px) and (max-width:700px) {
+  .fact4 {
+    display: inline;
+    background: green;
+  }
+}
+
+@media (min-width:320px) and (max-width:600px) {
+  .fact5 {
+    display: inline;
+    background: yellow;
+  }
+}
+
+@media (min-width:320px) and (max-width:500px) {
+  .fact6 {
+    display: inline;
+    background: lightblue;
+  }
+}
