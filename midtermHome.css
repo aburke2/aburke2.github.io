@@ -67,7 +67,7 @@
 
 }
  .div4 ul li{
- height: 50px;
+ height: 20px;
  float:left;
  background-color: #B1B1B1;
  padding-left:92px;
@@ -75,6 +75,7 @@
  list-style: none;
  display: inline;
  border: 1px solid black;
+ 
  }
  .div4 li {
  padding-bottom: auto;
