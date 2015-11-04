@@ -4,7 +4,7 @@
  border: 1px solid black;
  border-bottom: none;
  text-align: center;
- background-color: #B7D1DA;
+ background-color: #B1B1B1;
  width:1000px;
  height: 30%;
  }
@@ -23,7 +23,7 @@
  margin-right: auto;
  border:1px solid black;
  width:1000px;
- background-color: #B7D1DA;
+ background-color: #B1B1B1;
 
 }
  .div2 h3 {
@@ -33,7 +33,7 @@
  border-bottom: none;
  border:1px solid black;
  width:1000px;
- background-color: #B7D1DA;
+ background-color: #6fa8b5;
  margin-left: auto;
  margin-right: auto;
  height:;
@@ -60,7 +60,7 @@
  border: 1px solid black;
  margin-left: auto;
  margin-right: auto;
- background-color: #B7D1DA;
+ background-color:  #6fa8b5;
  width:1000px;
  height: 80px;
  /Vera/
@@ -70,7 +70,7 @@
  .div4 ul li{
  height: 50px;
  float:left;
- background-color: #E2E8DD;
+ background-color: #B1B1B1;
  padding-left:92px;
  padding-right: 92px;
  list-style: none;
@@ -87,7 +87,7 @@
  margin-right: auto;
  width:1000px;
  text-align: center;
- background-color: #95A3A4 ;
+ background-color: #B1B1B1;
  }
 @media (max-width: 1000px) {
  .div1{
@@ -152,8 +152,6 @@
 
 .bank_table
 {
-    padding-top: 3px;
-    padding-bottom: 3px;
     width: 100%;
     border: 2px;
     border-color: darkslategray;
